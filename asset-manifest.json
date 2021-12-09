@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7697d6bc.chunk.css",
+    "main.js": "/static/js/main.cc4580cf.chunk.js",
+    "main.js.map": "/static/js/main.cc4580cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7dfad12.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7dfad12.js.map",
+    "static/js/2.8175addf.chunk.js": "/static/js/2.8175addf.chunk.js",
+    "static/js/2.8175addf.chunk.js.map": "/static/js/2.8175addf.chunk.js.map",
+    "static/js/3.5d58aaa1.chunk.js": "/static/js/3.5d58aaa1.chunk.js",
+    "static/js/3.5d58aaa1.chunk.js.map": "/static/js/3.5d58aaa1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7697d6bc.chunk.css.map": "/static/css/main.7697d6bc.chunk.css.map",
+    "static/js/2.8175addf.chunk.js.LICENSE.txt": "/static/js/2.8175addf.chunk.js.LICENSE.txt",
+    "static/media/BlockCommerce.pdf": "/static/media/BlockCommerce.d375d7b7.pdf",
+    "static/media/index.scss": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/hero-shape-1.svg": "/static/media/hero-shape-1.f079ec58.svg",
+    "static/media/media_bitcoin.253db029.svg": "/static/media/media_bitcoin.253db029.svg",
+    "static/media/media_ether_1.78425b56.svg": "/static/media/media_ether_1.78425b56.svg",
+    "static/media/media_shopping.ad6e19d4.svg": "/static/media/media_shopping.ad6e19d4.svg",
+    "static/media/windows.0fd38fe7.svg": "/static/media/windows.0fd38fe7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7dfad12.js",
+    "static/js/2.8175addf.chunk.js",
+    "static/css/main.7697d6bc.chunk.css",
+    "static/js/main.cc4580cf.chunk.js"
+  ]
+}
