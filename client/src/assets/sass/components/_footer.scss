@@ -1,0 +1,24 @@
+.footer {
+    width: 100%;
+    margin-top: 10rem;
+    background: #333;
+    padding: 2rem 0;
+    position: absolute;
+    bottom: -10rem;
+
+    & * {
+        color: #fff;
+    }
+
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        width: 82.5%;
+        margin: 0 auto;
+    }
+
+    &__text {
+        font-size: 13px;
+        margin: 0;
+    }
+}

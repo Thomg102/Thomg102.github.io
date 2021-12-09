@@ -1,0 +1,35 @@
+.eth {
+    color: white;
+    padding: 5px;
+    text-align: center;
+    background: #191B1F;
+    border-radius: 40px;
+}
+
+.selectToken {
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10pt;
+    padding: 3px;
+    background: #2172E5;
+    text-align: center;
+    border-radius: 40px;
+    & i {
+        margin-left: 3px;
+    }
+}
+
+.pricebox {
+    font-size: 15pt;
+    height: 125%;
+    width: 40%;
+    color: white;
+    background-color: black;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
